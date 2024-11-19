@@ -1,6 +1,6 @@
-# Library Management System
+# Library Management System with Database Integration
 
-The Library Management System is a command-line application that provides a user-friendly interface for managing books, users, and authors in a library setting. The system allows users to perform various operations related to library management efficiently.
+The Library Management System is a command-line application that provides a user-friendly interface for managing books, users, and authors in a library setting. An SQL database is integrated with the application to store, retrieve and modify the data. The system allows users to perform various operations related to library management efficiently and have visual accompaniment from the Database to ensure accurate data .
 
 - Main Menu Features
 
@@ -18,7 +18,6 @@ Book Operations is designed to manage a collection of books in a library. It pro
 **Borrow a Book**: Mark a book as borrowed, making it unavailable for other users.
 **Return a Book**: Mark a borrowed book as returned, making it available again.
 **Search for a Book**: Look up a book by its ISBN and check its availability status.
-**Reserve a Book**: Reserve a book that is currently unavailable for future borrowing.
 **Display All Books**: View all books in the library along with their details and status.
 
 ## User Operations: Manage library users, including registration and user-specific functions.
